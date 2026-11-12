@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603139",
+ "ten": "NguyenVanHoa",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "nazy",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000175703.jpg",
+  "000000294329.jpg",
+  "000000294379.jpg",
+  "000000429594.jpg",
+  "000000508269.jpg",
+  "000000078170.jpg",
+  "000000090646.jpg",
+  "000000521817.jpg",
+  "000000307757.jpg",
+  "000000311300.jpg",
+  "000000253584.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_3348.jpg",
+  "face_359139.jpg",
+  "face_362568.jpg",
+  "face_442231.jpg",
+  "face_79591.jpg",
+  "face_81239.jpg",
+  "face_255797.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "persons-NguyenVanHoa"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "faces-NguyenVanHoa"
+  }
+ }
+}
